@@ -5,9 +5,9 @@ Version:	2.24
 Release:	1
 License:	BSD
 Group:		Applications/System
-URL:		http://opensource.yubico.com/yubico-pam/
 Source0:	http://opensource.yubico.com/yubico-pam/releases/%{module}-%{version}.tar.gz
 # Source0-md5:	3420a1538031aee90af1c4e83988994d
+URL:		http://opensource.yubico.com/yubico-pam/
 BuildRequires:	libyubikey-devel >= 1.5
 BuildRequires:	openldap-devel
 BuildRequires:	pam-devel
