@@ -2,7 +2,7 @@
 Summary:	A Pluggable Authentication Module for yubikeys
 Name:		pam-%{module}
 Version:	2.24
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/System
 Source0:	http://opensource.yubico.com/yubico-pam/releases/%{module}-%{version}.tar.gz
