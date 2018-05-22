@@ -13,6 +13,7 @@ BuildRequires:	asciidoc
 BuildRequires:	libyubikey-devel >= 1.5
 BuildRequires:	openldap-devel
 BuildRequires:	pam-devel
+BuildRequires:	pkgconfig
 BuildRequires:	ykclient-devel >= 2.15
 BuildRequires:	ykpers-devel >= 1.8.0
 Requires:	libyubikey >= 1.5
