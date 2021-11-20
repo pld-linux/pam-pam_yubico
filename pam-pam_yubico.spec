@@ -3,7 +3,7 @@ Summary:	A Pluggable Authentication Module for Yubikeys
 Summary(pl.UTF-8):	Moduł PAM dla urządzeń Yubikey
 Name:		pam-%{module}
 Version:	2.27
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/System
 Source0:	https://developers.yubico.com/yubico-pam/Releases/%{module}-%{version}.tar.gz
